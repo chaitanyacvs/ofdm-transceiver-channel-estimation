@@ -91,4 +91,13 @@ run('ofdm_transceiver.m')
 
 The simulation is designed to visualize the estimated channel frequency response and evaluate receiver performance using BER-versus-SNR curves.
 
-Add your actual generated plots and numerical results here after validating the
+## Simulation Results
+
+- [Channel Estimation](Channel%20Estimation.pdf)
+- [Channel Frequency Response](Channel%20Frequency%20Response.pdf)
+- [OFDM Equalizer BER Comparison](OFDM%20Equalizer%20BER%20Comparison.pdf)
+- [Complete Project Report](OFDM_Project_Report.pdf)
+
+## Technologies
+
+MATLAB, Digital Signal Processing, QPSK, OFDM, FFT/IFFT, channel estimation, and equalization.
