@@ -60,20 +60,6 @@ Random Data Generation
 - FFT/IFFT
 - Channel Estimation and Equalization
 
-## Repository Structure
-
-```text
-ofdm-transceiver-channel-estimation/
-├── ofdm_transceiver.m
-├── README.md
-├── OFDM_Project_Report.pdf
-└── results/
-    ├── channel_response.png
-    └── ber_vs_snr.png
-```
-
-*Update the filenames and folders to match the files actually included in your repository.*
-
 ## How to Run
 
 1. Install MATLAB.
